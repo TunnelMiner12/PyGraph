@@ -1,0 +1,36 @@
+Metadata-Version: 2.4
+Name: pygraphcv
+Version: 0.0.2
+Summary: A high-performance 2D/3D graphics and multimedia framework built on Cython and OpenCV.
+Home-page: https://github.com/TunnelMiner12/PyGraph
+Author: PyGraph developer(s)
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Cython
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: Pillow
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+PyGraph:
+This framework is a high preformance framework mostly built on cython, numpy, and cython. It has a documentation (https://docs.google.com/document/d/e/2PACX-1vQOwu2Af64UuxCGlzJDqdMTuFUCGLhgEevXPQREf4ztSdDBWjDFSGKGgnLvW_XRHIjl9YneM9xuUYKz/pub) which is nessesary to master this framework
